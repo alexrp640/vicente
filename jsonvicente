@@ -1,0 +1,24 @@
+{
+  "nombreSquad": "Vengadores",
+  "ciudadResidente": "New York",
+  "Formados": 1986,
+  "base": "Avvenger's Tower",
+  "mienbros": [
+    {
+      "nombre": "Iron Man",
+      "edad": 57,
+      "verdIdentidad": "Tony Stark",
+      "poderes": [
+        "Ciencia",
+        "Mucho dinero"
+      ]},
+    {
+      "nombre": "Madame Uppercut",
+      "edad": 80,
+      "verdIdentidad": "Steve Roger",
+      "poderes": [
+        "Suero que le hizo fuerte",
+        "Escudo de una aleacion de vivranium y adamantium",
+      ]}
+  ]
+};
